@@ -110,7 +110,7 @@ button:hover{
 main { 
      display: flex; 
      flex-direction: column; 
-     height: 40%; 
+
      width: 100%;
      margin: 50px; 
      justify-content: center;}
